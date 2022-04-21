@@ -33,6 +33,7 @@ main{
     margin-right: auto;    
     background-color: white;
     padding: 30px;
+    border-radius: 5px;
 }
 
 
@@ -47,10 +48,79 @@ main{
 }
 
 .button-left{
-    padding: 5px;
+    padding: 7px;
     border-style: solid;
     border-radius: 5px;
     background-color: #47adf1;
     color: white;
+    border: none;
+    
 }
 
+ul {
+    list-style-type: none;
+}
+
+
+.section{
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+
+.text-white{
+    color: white;
+    border-radius: 10px;
+    padding: 7px;
+    border: none;
+    font-size: 10px;
+    background-color: orange;
+   
+}
+
+
+.color-violet{
+    background-color: violet;
+}
+
+.color-green{
+    background-color: lightgreen;
+}
+
+.color-pink{
+    background-color: pink;
+}
+
+.color-blue{
+    background-color: blue;
+}
+
+.color-aqua{
+    background-color: aqua;
+}
+
+
+
+
+
+.spunta{
+    border-style: solid;
+    border-color: #77c8b4;
+    border-radius: 50%;
+    color: #77c8b4;
+    line-height: 50px;
+}
+
+ .croce{
+    border-style: solid;
+    border-color: #f18b86;
+    border-radius: 50%;
+    color: #f18b86;
+    line-height: 50px;
+    font-size: 13px;
+    
+}
+
+ 
