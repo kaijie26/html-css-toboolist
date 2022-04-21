@@ -1,0 +1,56 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.logo{
+    vertical-align: middle;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
+}
+
+.insegna{
+    vertical-align: middle;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+main{
+    background-color: #f6f8f9;
+    padding: 50px;
+    
+}
+
+.contenitore{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;    
+    background-color: white;
+    padding: 30px;
+}
+
+
+.button-right{
+    padding: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    color: lightgray;
+    border-color: lightgray;
+    background-color: white;
+
+}
+
+.button-left{
+    padding: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: #47adf1;
+    color: white;
+}
+
